@@ -1,2 +1,2 @@
-# bogang-simulasi-2022
-Repo khusus Lord Bogang
+# budi-simulasi-2022
+ok
